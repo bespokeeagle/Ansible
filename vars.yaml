@@ -1,0 +1,4 @@
+count_container : 3
+container_image: ubuntu
+container_name : ansible_docker
+default_container_command : sleep 1d
